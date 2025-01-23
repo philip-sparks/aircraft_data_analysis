@@ -1,0 +1,1 @@
+The following data analysis shows an EDA and preliminary findings about flight aviation data in the NYC area.
